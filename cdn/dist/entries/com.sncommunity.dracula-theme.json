@@ -6,9 +6,9 @@
   "showInGallery": true,
   "identifier": "com.sncommunity.dracula-theme",
   "version": "1.2.0",
-  "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.dracula-theme/dist/dist.css",
-  "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.dracula-theme.zip",
-  "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.dracula-theme.json",
+  "url": "https://apoos-maximus.github.io/plugins/cdn/dist/static/com.sncommunity.dracula-theme/dist/dist.css",
+  "download_url": "https://apoos-maximus.github.io/plugins/cdn/dist/zips/com.sncommunity.dracula-theme.zip",
+  "latest_url": "https://apoos-maximus.github.io/plugins/cdn/dist/entries/com.sncommunity.dracula-theme.json",
   "publisher": "Standard Notes",
   "base64Hash": "339f43c738dbc969ebf4f101859a227082937ab3c601e05d9c9b12ab4d2cdbcf",
   "binaryHash": "416326bc29b572ca9b8aa2c6f55d03746e7cf83e3e3bb007085307d1058c3711"
